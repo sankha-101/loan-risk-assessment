@@ -1,0 +1,7 @@
+﻿age,employment,education,marital_status,income,loan_amount,loan_term,default
+25,unemployed,graduate,single,20000,5000,12,0
+35,employed,high_school,married,40000,10000,24,1
+45,self_employed,graduate,married,60000,15000,36,0
+30,employed,graduate,single,30000,8000,18,1
+40,self_employed,postgraduate,married,50000,12000,24,0
+50,employed,high_school,married,70000,20000,36,0
